@@ -13,12 +13,12 @@
 
 ## Pasta
 - Del mar: Atún
-- Ensalada de pasta:
+- Ensalada de pasta
 - Macarrones con carne: macarrones, tomate frito, carne
 - Pasta de verano: lazos de colores, maíz, caballa, pimiento rojo y verde, aceitunas, tomate, perejil y oregano
 
 ## Carne
-- Burritos:
+- Burritos
 ## Verduras
 - Guisantes con jamón: guisantes, taquitos de jamón, huevos, pan
 - Guisantes del día grande: guisantes, jamón, cebolla, tomate natural, beicon y huevo

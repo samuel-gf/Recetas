@@ -12,9 +12,9 @@
 
 ## Verduras
 - Acelgas con patatas:
-- Berenjenas con carne y queso:
+- Berenjenas con carne y queso
 - Judías verdes con patatas
-- Patatas a la feria de Almería:
+- Patatas a la feria de Almería
 
 ## Pescado
 - Salmón
