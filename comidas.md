@@ -3,7 +3,7 @@
 ## Legumbre clásica
 - Cocido de la casa: Dos chorizos, media morcilla y medio tocino, pollo, dos huesos, entraña
 - Judías blancas:
-- Lentejas: Patata, chorizo, pimiento, zanahoria, ajo, laurel, cebolla, pimentón
+- [Lentejas de la casa](lentejas1.md): Patata, chorizo, pimiento, zanahoria, ajo, laurel, cebolla, pimentón
 
 ## Arroz 
 - Florencia: Arroz, atún, champiñón, tomate frito, pimiento rojo italiano
