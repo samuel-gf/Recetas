@@ -25,5 +25,5 @@
 - Cena: ?
 
 ## Domingo
-- Comida: [Lentejas de San Lorenzo](lentejas1.md)
+- Comida: [Lentejas de la casa](lentejas1.md)
 - Cena: Sopa Sara
