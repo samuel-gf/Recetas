@@ -5,7 +5,7 @@
 - Cena: Berenjena con carne y queso
 
 ## Martes
-- Comida: [Lentejas Almería](lentejas_almeria.md)
+- Comida: [Lentejas de San Lorenzo](lentejas1.md)
 - Cena: Judías verdes con patatas
 
 ## Miércoles
@@ -25,5 +25,5 @@
 - Cena: ?
 
 ## Domingo
-- Comida: [Lentejas Almería](lentejas_almeria.md)
+- Comida: [Lentejas de San Lorenzo](lentejas1.md)
 - Cena: Sopa Sara
