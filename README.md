@@ -9,3 +9,4 @@ Este repositorio contiene la experiencia acumulada desde abril de 2022
 ## Menús por semanas
 
 - [Menú 1](menu1.md)
+- [Menú 2](menu2.md)
