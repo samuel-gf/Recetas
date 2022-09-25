@@ -5,7 +5,7 @@
 - Cena: Berenjena con carne y queso
 
 ## Martes
-- Comida: [Lentejas de San Lorenzo](lentejas1.md)
+- Comida: [Lentejas de la casa](lentejas1.md)
 - Cena: Judías verdes con patatas
 
 ## Miércoles
