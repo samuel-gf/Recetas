@@ -21,7 +21,7 @@
 - Cena: Pizza
 
 ## Sábado
-- Comida: Cocido
+- Comida: [Cocido de la casa](cocido1.md)
 - Cena: ?
 
 ## Domingo
