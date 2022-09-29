@@ -50,7 +50,7 @@ Este repositorio contiene la experiencia acumulada desde abril de 2022
 - Tortilla francesa con ensalada:
 
 ## Verduras
-- Acelgas con patatas:
+- Acelgas con patatas: 15'+enfriado
 - Berenjenas con carne y queso
 - Judías verdes con patatas
 - Patatas a la feria de Almería
