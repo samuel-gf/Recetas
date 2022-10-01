@@ -8,7 +8,7 @@
 - Dos huesos
 - Entraña 200g
 - Dos patatas pequeñas o una grande
-- 300g de garbanzos
+- 100g de garbanzos por persona
 - Dos Zanahoria medianas 
 - Una judía verde por cada comensal
 - Dos patatas medianas
