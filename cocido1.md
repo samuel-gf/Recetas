@@ -5,11 +5,12 @@
 - Dos chorizos
 - Media morcilla
 - Medio tocino
-- Pollo
 - Dos huesos
-- Entraña
+- Entraña 200g
 - Dos patatas pequeñas o una grande
 - 300g de garbanzos
+- Zanahoria
+- Judías verdes
 
 ## Procedimiento
 
