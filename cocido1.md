@@ -9,8 +9,9 @@
 - Entraña 200g
 - Dos patatas pequeñas o una grande
 - 300g de garbanzos
-- Zanahoria
-- Judías verdes
+- Dos Zanahoria medianas 
+- Una judía verde por cada comensal
+- Dos patatas medianas
 
 ## Procedimiento
 
