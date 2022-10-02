@@ -2,16 +2,15 @@
 
 ## Ingredientes
 
-- 1 litro de agua
 - Aceite de oliva
-- 200 gramos de lentejas
+- 100 gramos de lentejas por persona
 - 2 dientes de ajo
 - Media cebolla grande
 - Pimiento rojo y verde
 - Dos chorizos
 - 2 cucharaditas de pimentón
 - Una hoja de laurel
-- Dos patatas
+- Dos patatas medianas
 - Dos zanahorias
 
 ## Procedimiento
