@@ -2,10 +2,10 @@
 
 ## Ingredientes
 
-- Dos chorizos
+- Medio chorizo por persona
 - Media morcilla
 - Medio tocino
-- Dos huesos
+- Dos huesos, al menos uno de ellos de cerdo
 - Entraña 200g
 - Dos patatas pequeñas o una grande
 - 100g de garbanzos por persona
