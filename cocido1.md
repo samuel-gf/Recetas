@@ -6,7 +6,7 @@
 - Media morcilla
 - Medio tocino
 - Dos huesos, al menos uno de ellos de cerdo
-- Entraña 200g
+- Morcillo 200g
 - Dos patatas pequeñas o una grande
 - 100g de garbanzos por persona
 - Dos Zanahoria medianas 
