@@ -23,4 +23,4 @@
 1. Rehogar 5 minutos más
 1. Mezclar todo
 1. Echar lentejas con 1 litro de agua en la olla express
-1. Cocer 11 minutos al 8 de potencia
+1. Cocer 13 minutos al 8 de potencia
